@@ -1,3 +1,3 @@
-Gen2Emacs Configuration
+# Gen2Emacs Configuration
 
-Emacs with EXWM for Gentoo OS
+ Emacs_with_EXWM for Gentoo_OS
